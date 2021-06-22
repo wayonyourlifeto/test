@@ -1,0 +1,1 @@
+web: gunicorn pages.project.wsqi --log-file -
