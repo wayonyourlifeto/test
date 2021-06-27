@@ -3,7 +3,7 @@ WSGI config for pages_project project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
-For more information on this file, see
+Fordahis file, see
 https://docs.djangoproject.com/en/3.0/howto/deployment/wsgi/
 """
 

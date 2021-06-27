@@ -1,1 +1,1 @@
-web: gunicorn pages.project.wsqi --log-file -
+web: gunicorn pages_project.wsgi --log-file -
